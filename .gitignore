@@ -1,0 +1,19 @@
+# Composer
+/vendor/
+
+# Logs
+/storage/logs/*
+!storage/logs/.gitkeep
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# PHPUnit cache
+/.phpunit.result.cache
+
+# Env
+.env
